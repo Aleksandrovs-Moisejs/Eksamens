@@ -1,0 +1,23 @@
+<Qucs Schematic 0.0.15>
+<Properties>
+  <View=-65,-60,850,680,1,65,0>
+  <Grid=10,10,0>
+  <DataSet=uzd1ver2.dat>
+  <DataDisplay=uzd1ver2.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+</Diagrams>
+<Paintings>
+</Paintings>
